@@ -1413,10 +1413,10 @@ body.is-preload #bg:before {
 #header .logo {
   width: 6rem;
   height: 6rem;
-  line-height: 5.5rem;
+  line-height: 6rem;
   border: solid 0.25rem #ffffff;
   border-radius: 100%;
-  font-size: 3.5rem;
+  font-size: 8vw;
 }
 
 #header .logo .icon:before {
