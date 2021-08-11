@@ -1002,6 +1002,7 @@ ul.icons {
   cursor: default;
   list-style: none;
   padding-left: 0;
+  text-align: center;
 }
 
 ul.icons li {
@@ -1791,7 +1792,7 @@ a.button4 {
   box-sizing: border-box;
   text-decoration: none;
   font-family: inherit;
-  font-weight: 300;
+  font-weight: 200;
   color: #ffffff;
   text-shadow: 0 0.04em 0.04em rgba(0, 0, 0, 0.35);
   text-align: center;
