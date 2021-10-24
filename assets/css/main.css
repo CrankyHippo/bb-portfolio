@@ -108,6 +108,10 @@ body {
   line-height: 1;
 }
 
+.formspree {
+  display:none
+}
+
 ol,
 ul {
   list-style: none;
